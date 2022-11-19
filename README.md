@@ -34,7 +34,11 @@ If the user clicks on the "Books" tab, they will be directed to a panel with a s
 
 <img width="725" alt="Screen Shot 2022-11-19 at 12 29 28 PM" src="https://user-images.githubusercontent.com/107063397/202866118-b4be50d9-0d96-48bb-ae25-6b08c4cb58a2.png">
 
-The search bar works in the exact same manner as the customer tab. If the user clicks "Rent Book", it will prompt the user asking for "first name of customer", "last name of customer", and then "book title". As seen here.
+The search bar works in the exact same manner as the customer tab except it searches by book title. Here is the result for searching for "Green Book".
+
+<img width="725" alt="Screen Shot 2022-11-19 at 12 54 33 PM" src="https://user-images.githubusercontent.com/107063397/202867003-e54739ab-6f38-42cc-b1fa-351752077f50.png">
+
+If the user clicks "Rent Book", it will prompt the user asking for "first name of customer", "last name of customer", and then "book title". As seen here.
 
 <img width="724" alt="Screen Shot 2022-11-19 at 12 32 54 PM" src="https://user-images.githubusercontent.com/107063397/202866239-348f4983-e729-4839-b59e-ba0538223c63.png">
 
