@@ -12,6 +12,8 @@ The data for the bookstore is automatically uploaded from a txt file with the fo
 
 <img width="671" alt="Screen Shot 2022-11-19 at 12 19 06 PM" src="https://user-images.githubusercontent.com/107063397/202865735-4d6d0c17-5f4e-491d-97af-cda135bc0932.png">
 
+The books are stored in a "Book" object and the customers are store in a "Customer" object that stores the necessary data.
+
 Clicking the "Display Customer" button displays a list of all customers in the bookstore and their stored data. If there were more customers than could fit, a JscrollPane would allow you to scroll to view more data.
 
 <img width="722" alt="Screen Shot 2022-11-19 at 12 21 29 PM" src="https://user-images.githubusercontent.com/107063397/202865814-c85b27b4-61c8-489a-8fd0-aff3ba7a8195.png">
