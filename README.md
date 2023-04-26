@@ -1,9 +1,12 @@
-# Java_BookstoreManager
+# bookstore-manager
+
 This project's goal was to create an interface that a bookstore manager could use to keep track of the inventory of his bookstore, all of his customers, and which customers were renting which books.
 
-Additionally, it needed to be able to add both new books and new customers to the library. All of the data was read from and saved to a txt file that served as the database.
+**Tools Used:**
+* `Java Swing` for tabbed panels, buttons, Jlabels, Jscrollpane, and Jtables
 
-The GUI was created using Java's Swing toolkit. It includes a tabbed panel, buttons, text fields, Jlabels, JscrollPanec and Jtables.
+
+Additionally, it needed to be able to add both new books and new customers to the library. All of the data was read from and saved to a txt file that served as the database.
 
 When the application is first opened, the GUI defaults to this screen:
 <img width="724" alt="Screen Shot 2022-11-19 at 12 17 32 PM" src="https://user-images.githubusercontent.com/107063397/202865691-36aafe4e-0d52-49d1-b0ed-6198fa80670e.png">
